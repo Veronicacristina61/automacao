@@ -69,9 +69,4 @@ npx playwright test
 npx playwright test --ui
 ```
 
----
-*Project developed for institutional evaluation purposes.*
-From: Karol Nunes < jkaroline21@hotmail.com >
-Sent: Tuesday, October 6, 2026 11:26 PM
-To: Iara Santiago < iarasantiagos@gmail.com >
-Subject: RE: lol
+
